@@ -1,1 +1,10 @@
-name, date, description
+Name:	James Tremper
+Date:	2015-01-22
+Lab1:
+	The html file contains the fragment and vertex shaders. The js file contains the code to initialize the shaders, choose which image to display (and in what color), and renders the image.
+	There is a basic three-state state machine, with each state corresponding to an image.
+	The images are (respectively):
+		- A yellow triangle
+		- A magenta square
+		- A cyan hexagon
+	The files webgl-utils.js, initShaders.js, and MV.js are located locally in the relative folder path ../common/
